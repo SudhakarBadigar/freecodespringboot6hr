@@ -1,0 +1,66 @@
+Networking:
+
+Nodes = devices 
+links = cable that is connected to those nodes/devices
+ip address = internet protocol address/logical address of the device ip will change according to the location/device change
+mac address = it will not change until the device is dead /physical address of the device 
+routers hubs and switches these are the places where we use the network
+
+ports are the location where we connect or where we communicate
+
+full duplex communication - where both can communicate
+half duplex communication - at a time only one person can speak and the other person can only listen
+
+DNS -DOMAIN NAMING SYSTEM
+DHCP - DYNAMIC HOST CONFIGURATION PROTOCOL
+NIC - NETWORK INTERFACE CARD
+
+NETWORK TOPOLOGY : Blueprint of the network or planning 
+
+types 
+- point to point 
+- bus 
+-ring 
+-star 
+-tree 
+-mesh 
+-hybrid
+
+osi model(open system interconnect model)
+tcp/ip -transmission control protocol - internet protocol
+
+HUB- it is not an intelligent device ex: if main pc sends HUB some information to send it to the pc1 then it sends to all the pcs that 
+	are connected to it because it doesn't know which one is pc1 
+SWITCHES: it is an intelligent device ex: if pc1 sends some information to send it to pc2 it will send it to pc2 and it will not send to 
+	 any other pc's or any other device.
+
+OSI layers :
+
+physical Layer- associated with data 0/1 binary data ex: pen drive 16gb ,WhatsApp.. we use HUB here.
+data layer - media access control (MAC address)of the device, it will not change. we use SWITCHES of networking related.
+network layer - prefers IP address that means when my location changes my ip address will also change it is also called as logical address of the 			device.ROUTERS.
+transport layer-prefers TCP (transmission control protocol) reliable, delivers the order correctly ex: ssh,web browsing,emails,file transfer uses this.  and       	        UDP(user datagram protocol)fast but doesn't gurantee the delivery not reliable ex:online gaming,DNS, skype.. 
+session layer - session ID'S it will be unique only for one group of session will be work others cant interrupt.
+presentation layer- 
+application layer -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
