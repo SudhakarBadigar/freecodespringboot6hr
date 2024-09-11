@@ -1,0 +1,15 @@
+1.aws
+2.linux
+3.networking
+4.github
+5.jenkins
+6.maven/gradle
+7.sonarqube
+8.ansible
+9.grafana/pometheus
+10.docker
+11.kubernetes
+12.java/spring/springboot
+13.database/MySQL/jdbc/jpa/hibernate
+14.reactjs/angular
+15.
